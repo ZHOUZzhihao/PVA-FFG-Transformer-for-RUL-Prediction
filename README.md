@@ -18,9 +18,9 @@ The training program is not available at this time because the content has not y
 ## Testing
 Run "main.py" directly, and then you can see the predicted RMSE, Score, and the number of model parameters.
 Take FD002 for example.
-![FD002_index.png](https://github.com/ZHOUZzhihao/PVA-FFG-Transformer-for-RUL-Prediction/blob/main/FD002_results.png)
+![FD002_index.png](https://github.com/ZHOUZzhihao/PVA-FFG-Transformer-for-RUL-Prediction/blob/main/FD002_index.png)
 The prediction results for all test engines are shown below.
-![FD002_results.png](FD002_results.png)
+![FD002_results.png](https://github.com/ZHOUZzhihao/PVA-FFG-Transformer-for-RUL-Prediction/blob/main/FD002_results.png)
 
 ## Environment Details
 ```
