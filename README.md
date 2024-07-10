@@ -10,7 +10,7 @@ If you are interested in the method, please contact this email address. We will 
 Email:22S002045@stu.hit.edu.cn**
 
 ## Quick Run
-Simply run `main`. 
+Simply run `main.py`. 
 
 ## Training
 The training program is not available at this time because the content has not yet been published in either journal.
